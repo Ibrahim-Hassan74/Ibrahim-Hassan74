@@ -9,7 +9,7 @@
 - Solved **3000+ problems** on platforms like:  
   - **Codeforces**, **LeetCode**, **UVA**, **AtCoder**, and more.  
 - Specialized in:  
-  - **Dynamic Programming**, **Graphs**, **Tries**, **Segment Trees**.  
+  - **Dynamic Programming**, **Graphs**, **Tries**, **Segment Tree**.  
 - Achievements:  
   - **ECPC Finalist** with a passion for algorithmic problem-solving.  
 
