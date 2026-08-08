@@ -5,7 +5,7 @@
 > Building production-grade distributed systems with ASP.NET Core, Angular, and Clean Architecture.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ibrahimhassan.dev-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrahimhassan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hassan-48287b250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hassan-dev)
 [![Email](https://img.shields.io/badge/Email-ibrahimhassan.dev1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimhassan.dev1@gmail.com)
 
 ---
